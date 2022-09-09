@@ -1,4 +1,4 @@
 image:
   repository: reponame
-  tag: dev
+  tag: newtag
 newline: true
